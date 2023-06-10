@@ -1,4 +1,6 @@
-# RollaBall
+### EX NO : 02
+### DATE  : 
+# <p align="center">RollaBall</p>
 
 ## Aim:
 To Roll a Ball using C# program in unity .
@@ -44,9 +46,9 @@ Double click the PlayerController file and type the coding
 
 ## Program:-
 
-NAME:- virgil jovita.a
-
-REG NO:- 212221240062
+Developed By: **Virgil Jovita.A**
+<br/>
+Register Number: **212221240062**
 
 ```py
 using System.Collections;
